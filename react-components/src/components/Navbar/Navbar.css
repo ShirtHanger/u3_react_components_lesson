@@ -1,0 +1,7 @@
+/* src/components/Navbar/Navbar.css */
+
+#top-navbar {
+    display: flex;
+    justify-content: space-around;
+  }
+  
